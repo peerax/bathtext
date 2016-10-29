@@ -1,0 +1,27 @@
+{
+  "name": "bathtext",
+  "version": "1.0.0",
+  "description": "npm packaage convert digit and number to thai format text",
+  "main": "src/bathtext.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peerax/bathtext.git"
+  },
+  "keywords": [
+    "npm",
+    "bathtext"
+  ],
+  "author": "Peerathai Puapan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peerax/bathtext/issues"
+  },
+  "homepage": "https://github.com/peerax/bathtext#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
