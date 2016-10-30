@@ -1,6 +1,6 @@
 {
   "name": "bathtext",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "npm packaage convert digit and number to thai format text",
   "main": "src/bathtext.js",
   "scripts": {
