@@ -8,11 +8,15 @@ var bathtext = function(value) {
 function sepComma(n){
     var parts = n.split(',');
     var res;
+    var count = 0;
+    
     parts.forEach(function(en) {
         res += en;
+        count++;
+        if(count == parts.length){return res;};
     });
     
-    return res;
+    
 }
 
 
