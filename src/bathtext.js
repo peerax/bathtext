@@ -1,6 +1,6 @@
 var bathtext = function(value) {
     
-    return sepComma(value);
+    return isNumber(sepComma(value));
   //return isNumber(value);
 };
 
